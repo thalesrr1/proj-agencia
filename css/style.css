@@ -123,5 +123,28 @@ html {
 .service-description p {
     font-size: 14px;
     line-height: 22px;
-    
+}
+
+#gerenciamento-title {
+    color: #2364AA;
+}
+
+#dev-title {
+    color: #3DA5D9;
+}
+
+#design-title {
+    color: #73bfb8;
+}
+
+#gerenciamento-box {
+    background-color: #2364AA;
+}
+
+#dev-box {
+    background-color: #3DA5D9;
+}
+
+#design-box {
+    background-color: #73bfb8;
 }
