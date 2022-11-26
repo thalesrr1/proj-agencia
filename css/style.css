@@ -107,3 +107,21 @@ html {
     font-size: 18px;
     line-height: 24px;
 }
+
+.service-description {
+    width: 80%;
+    float: left;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.service-description h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.service-description p {
+    font-size: 14px;
+    line-height: 22px;
+    
+}
